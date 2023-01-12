@@ -10,7 +10,19 @@ export default function Home() {
 				<title>Alex's Portfolio</title>
 			</Head>
 
-			<h1 className="text-red-500">Let's build an AWESOME portfolio</h1>
+			{/* Header */}
+
+			{/* Hero */}
+
+			{/* About */}
+
+			{/* Experience */}
+
+			{/* Skills */}
+
+			{/* Projects */}
+
+			{/* Contact Me */}
 		</div>
 	);
 }
