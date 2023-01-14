@@ -3,7 +3,7 @@ import React from 'react';
 type Props = {};
 
 function Header({}: Props) {
-	return <div>I am a Header</div>;
+	return <header>I am a Header</header>;
 }
 
 export default Header;
