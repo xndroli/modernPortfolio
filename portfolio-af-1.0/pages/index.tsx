@@ -1,9 +1,8 @@
+import type { NextPage } from 'next';
 import Head from 'next/head';
-import { Inter } from '@next/font/google';
+import Header from '../components/Header';
 
-const inter = Inter({ subsets: ['latin'] });
-
-export default function Home() {
+const Home: NextPage = () => {
 	return (
 		<div>
 			<Head>
@@ -26,4 +25,4 @@ export default function Home() {
 			{/* Contact Me */}
 		</div>
 	);
-}
+};
