@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 TO-DO:
 OPTIMIZE IMG TAG FOR NEXT.JS AND WHITELIST URL FOR LOAD IN
-1:11:34
+1:41:18

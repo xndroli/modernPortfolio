@@ -34,6 +34,7 @@ export default function ExperienceCard({}: Props) {
 					Started work... - Ended...
 				</p>
 
+				{/* Set to scrollable container by setting height */}
 				<ul className="list-disc space-y-4 ml-5 text-lg">
 					<li>Summary PointsSummary PointsSummary PointsSummary Points</li>
 					<li>Summary PointsSummary PointsSummary PointsSummary Points</li>
